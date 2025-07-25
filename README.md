@@ -57,9 +57,9 @@ Make sure the backend is running on `http://localhost:8000`.
 
 ## 📷 UI Preview
 
-_(Optional: Add a screenshot/gif of your chat UI here)_
-
----
+![User Name Input Screen](./docs/images/UserNameInputScreen.png)
+![Topic Input Screen](./docs/images/TopicInputScreen.png)
+![Chat Screen](./docs/images/Chat.png)
 
 ## 🧑‍💻 Author
 
